@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518307200893",
+    "project_id": "halal-check-dev",
+    "storage_bucket": "halal-check-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518307200893:android:3c877f61ec3077ca6c9614",
+        "android_client_info": {
+          "package_name": "com.byteShift.halal_check.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdd64PNXoHHf6JjeN95yaUMbNPyLNzJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
